@@ -1,9 +1,9 @@
 Scraper Team
 ============
 
-A Telegram Bot based on plugins using [Created By DawshArian](https://github.com/DDawshAriaDaw
+A Telegram Bot based on plugins As Created By DawshArian 🔥
 
 
 This Is A PowerFul Bot In Telegram 💪
 
-@Dawsh_Arian [Creator]
+@Dawsh_Arian 💥
