@@ -1,17 +1,4 @@
---------------------------------------------------
---      ____  ____ _____                        --
---     |    \|  _ )_   _|___ ____   __  __      --
---     | |_  )  _ \ | |/ ·__|  _ \_|  \/  |     --
---     |____/|____/ |_|\____/\_____|_/\/\_|     --
---                                              --
---------------------------------------------------
---                                              --
---       Developers: @Josepdal & @MaSkAoS       --
---     Support: @Skneos,  @iicc1 & @serx666     --
---                                              --
---    #creategroup by @lamjavid &  @Josepdal	--
---												--
---------------------------------------------------
+
 
 do
 
@@ -537,6 +524,9 @@ local function run(msg, matches)
                 else
                     sLang = lang_text(msg.to.id, 'noSet')
                     sLangD = '🔹'
+
+Scraper Team 💪
+@Dawsh_Arian 💥
                 end
                 text = text..sLangD..' '..lang_text(msg.to.id, 'language')..': '..string.upper(sLang)..'\n'
 
